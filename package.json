@@ -1,0 +1,18 @@
+{
+  "name": "merkle-tree",
+  "version": "1.0.0",
+  "description": "This a nft drop project that would mint to valid address along",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "developeruche",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@openzeppelin/contracts": "^4.7.3",
+    "hardhat": "^2.10.2",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32"
+  }
+}
